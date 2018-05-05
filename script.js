@@ -1,7 +1,7 @@
 window.onload = function countdown() {
 
     var now = new Date();
-    var eventDate = new Date(2019, 4, 1);
+    var eventDate = new Date(2019, 4, 16);
 
     var currentTime = now.getTime();
     var eventTime = eventDate.getTime();
